@@ -63,4 +63,4 @@
    - On **Client-1**, perform `nslookup search` and verify that it shows the CNAME record pointing to `www.google.com`.
 
 ### Conclusion
-You now understand or learn how to manage DNS records by creating A and CNAME records, and handling DNS cache. By following these steps, you observed the effects of DNS record changes and cache clearing on name resolution and network troubleshooting.
+By the end of this guide, you should know or understand how to manage DNS records by creating A and CNAME records, and handling DNS cache. By following these steps, you observed the effects of DNS record changes and cache clearing on name resolution and network troubleshooting.
